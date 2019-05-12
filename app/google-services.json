@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627693262403",
+    "firebase_url": "https://cari-guru-e6133.firebaseio.com",
+    "project_id": "cari-guru-e6133",
+    "storage_bucket": "cari-guru-e6133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627693262403:android:ff8157983e557fe6",
+        "android_client_info": {
+          "package_name": "com.example.cariguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627693262403-flp7jh05megiekdgln4ef48kamj2lphc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cariguru",
+            "certificate_hash": "96dc853bcbc3541ccc2f410715560b4246e6db9d"
+          }
+        },
+        {
+          "client_id": "627693262403-lhi1t5mkcvivbjocpjs17rkf3dj3f2pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1c8OA57Tp75ipMURUWpikBn49PHP0C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627693262403-lhi1t5mkcvivbjocpjs17rkf3dj3f2pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
